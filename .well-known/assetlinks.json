@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.carlossantos19.redcity",
+      "sha256_cert_fingerprints": [
+        "EB:9B:01:2B:F5:20:D0:65:54:05:75:40:B9:2F:14:BC:70:79:EB:79:5A:8B:D1:9C:54:A5:A2:81:99:83:F3:5F"
+      ]
+    }
+  }
+]
